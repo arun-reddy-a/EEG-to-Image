@@ -11,14 +11,14 @@ The training also exhibits sudden convergence phenomenon. The fit of the model w
 <div align="center">
   <div style="display: inline-block; text-align: center;">
     <img src="image_240.png" alt="fit at iteration 240" width="250" />
-    <p>Caption for Image 1</p>
+    <p>fit at iteration 240</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <img src="image_250.png" alt="fit at iteration 250" width="250" />
-    <p>Caption for Image 2</p>
+    <p>fit at iteration 250</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <img src="image_260.png" alt="fit at iteration 260" width="250" />
-    <p>Caption for Image 3</p>
+    <p>fit at iteration 260</p>
   </div>
 </div>
