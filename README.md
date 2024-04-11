@@ -5,3 +5,16 @@ The rightmost column is the ground truth image for an EEG Signal and the remaini
 This model was trained with limited number of iterations [ran out of GPU credits]. Further Improvements are definately possible by simply training for more epochs.
 
 ![](image_570.png)
+
+The training also exhibits sudden convergence phenomenon. The fit of the model was pretty bad until 240 iterations but suddenly within the next 10 iterations the model drastically improves as shown in the images below.
+
+<div align="center">
+  <img src="image_240.png" alt="240 iterations" width="250" />
+  <img src="image_250.png" alt="250 iterations" width="250" />
+  <img src="image_260.png" alt="260 iterations" width="250" />
+</div>
+<div align="center">
+  <p>240 iterations</p>
+  <p>250 iterations</p>
+  <p>260 iterations</p>
+</div>
