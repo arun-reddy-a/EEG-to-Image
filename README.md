@@ -13,8 +13,6 @@ The training also exhibits sudden convergence phenomenon. The fit of the model w
   <img src="image_250.png" alt="250 iterations" width="250" />
   <img src="image_260.png" alt="260 iterations" width="250" />
 </div>
-<div align="center">
-  <p>240 iterations</p>
-  <p>250 iterations</p>
-  <p>260 iterations</p>
-</div>
+<p align="center">
+  <em>Image 1 Caption</em> • <em>Image 2 Caption</em> • <em>Image 3 Caption</em>
+</p>
